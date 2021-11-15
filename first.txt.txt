@@ -44,6 +44,23 @@ anf for directory /Dir
 
 22) git checkout -f
 
+PUSHING ON GITHUB
+
+1) git remote
+
+2) make a repository on github
+
+3) copy from existing push repository first command
+
+4) git remote add origin https://..............<url>,,,,,,,,,,,, 
+
+
+
+
+
+
+
+
 
 
 
