@@ -1,0 +1,53 @@
+This is my first commit
+now second commit
+commands in git
+1) git status
+2) git init
+3) git add --a or git add . or git add <file name.extension>
+4) git commit -m "MSG IS GIVEN FOR mODIFICATION"
+5) git log
+6) rm -rf .git #{to delete any git file }
+7) git clone <copied url> <optional if need to change folder name>
+8) touch .gitignore
+9) touch error.log
+
+#to ignore files we use .gitignore  and put (error.log)
+anf for directory /Dir
+
+10) git diff (this command helps in comparing the two versions of file  for eg file on stages and file modified 
+<<in tech nowledge it compares staging area with working directory
+
+11) git diff --staged (this command compares the versiond befor ethe last commiteted time
+
+12) git commit -a -m "this skips the staging part" #it means that we will not commit untracked files only
+ tracked files will be committed we are not staging the untracked files
+
+13) git rm <file name> #to rename any file
+
+14) git mv <file name> <new file name you wanted> #this is to rename a file
+
+15) git rm --cached <file name> # this command is used when we have to untrack a file and add to.gitignore
+
+16) git log --pretty=oneline
+
+17) git log --since=2.days
+
+18) git log --pretty=format:"%h -- %an"
+
+19) git commit --amend
+
+
+20) git restore <file name.extension> #to usnatge a file
+
+
+21) git checkout -- <filename.extension>
+
+22) git checkout -f
+
+
+
+
+
+
+
+
